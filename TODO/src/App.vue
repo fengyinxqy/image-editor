@@ -2,7 +2,7 @@
  * @Author: fengyinxqy 572752189@qq.com
  * @Date: 2023-05-25 12:26:14
  * @LastEditors: fengyinxqy 572752189@qq.com
- * @LastEditTime: 2023-05-25 13:31:56
+ * @LastEditTime: 2023-05-25 20:09:31
  * @FilePath: \font-image-editor\src\App.vue
  * @Description:
  *
@@ -10,12 +10,17 @@
 -->
 <template>
   <div id="app">
-    123
+    <router-link to="/" />
+    <router-view />
   </div>
 </template>
 
 <style>
+body,html{
+  height: 100%;
+}
 #app {
+  height: 100%;
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
