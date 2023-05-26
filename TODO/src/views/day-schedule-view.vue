@@ -1,6 +1,6 @@
 <template>
   <div>
-    周程
+    日程
   </div>
 </template>
 

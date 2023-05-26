@@ -1,13 +1,4 @@
-/*
- * @Author: fengyinxqy 572752189@qq.com
- * @Date: 2023-05-25 13:26:12
- * @LastEditors: fengyinxqy 572752189@qq.com
- * @LastEditTime: 2023-05-25 13:26:45
- * @FilePath: \font-image-editor\.stylelintignore
- * @Description: 
- * 
- * Copyright (c) 2023 by ${git_name_email}, All Rights Reserved. 
- */
+
 // 忽略如下文件夹(主要为静态资源、打包后的文件）
 build
 dist

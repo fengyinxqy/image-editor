@@ -1,13 +1,3 @@
-<!--
- * @Author: fengyinxqy 572752189@qq.com
- * @Date: 2023-05-25 12:26:14
- * @LastEditors: fengyinxqy 572752189@qq.com
- * @LastEditTime: 2023-05-25 20:09:31
- * @FilePath: \font-image-editor\src\App.vue
- * @Description:
- *
- * Copyright (c) 2023 by ${git_name_email}, All Rights Reserved.
--->
 <template>
   <div id="app">
     <router-link to="/" />
